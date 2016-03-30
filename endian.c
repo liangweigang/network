@@ -1,5 +1,5 @@
+//reference redis src: endianconv.c
 #include <stdint.h>
-
 
 uint16_t intrev16(uint16_t v);
 uint32_t intrev32(uint32_t v);
